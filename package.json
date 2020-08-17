@@ -27,7 +27,7 @@
     "font-awesome": "^4.7.0",
     "fullcalendar": "3.5.1",
     "intl": "1.2.5",
-    "jquery": "3.2.1",
+    "jquery": "3.5.0",
     "moment": "^2.21.0",
     "ng2-currency-mask": "^4.4.1",
     "ng2-toasty": "^4.0.3",
